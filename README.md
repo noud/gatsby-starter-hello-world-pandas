@@ -94,8 +94,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/noud/gatsby-starter-hello-world-pandas)
 
+<!-- AUTO-GENERATED-CONTENT:END -->
+
 ## 💫 Deployed
 
-This [Hello World Pandas App]() is deployed to [Surge](https://surge.sh) [Content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network).
-
-<!-- AUTO-GENERATED-CONTENT:END -->
+This [Hello World Pandas App](http://gatsby-starter-hello-world-pandas.surge.sh/) is deployed to [Surge](https://surge.sh) [Content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network).
