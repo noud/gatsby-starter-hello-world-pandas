@@ -28,6 +28,7 @@ export default ({ children }) => {
     <ListLink to="/">Home</ListLink>
     <ListLink to="/about/">About</ListLink>
     <ListLink to="/about-css-modules/">About (CSS Modules)</ListLink>
+    <ListLink to="/my-files/">My Files</ListLink>
     <ListLink to="/pandas/">Pandas</ListLink>
     <ListLink to="/contact/">Contact</ListLink>
   </ul>
