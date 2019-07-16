@@ -8,7 +8,7 @@ export default () => (
 		<div style={{ color: `teal` }}>
 		<Link to="/">Home</Link>
 		<Header headerText="Contact" />
-		<p>Send us a message!</p>
+		<p><a href="mailto:noud4@home.nl">Send noud4 at home dot nl a message!</a></p>
 	</div>
 </Layout> 
 )

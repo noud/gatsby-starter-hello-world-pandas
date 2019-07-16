@@ -19,8 +19,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Use the Gatsby CLI to create a new site, specifying the hello-world starter.
 
     ```sh
-    # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
+    # create a new Gatsby site using the hello-world-pandas starter
+    gatsby new my-hello-world-pandas-starter https://github.com/noud/gatsby-starter-hello-world-pandas
     ```
 
 1.  **Start developing.**
@@ -28,7 +28,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd my-hello-world-starter/
+    cd my-hello-world-pandas-starter/
     gatsby develop
     ```
 
@@ -92,6 +92,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/noud/gatsby-starter-hello-world-pandas)
+
+## 💫 Deployed
+
+This [Hello World Pandas App]() is deployed to [Surge](https://surge.sh) [Content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network).
 
 <!-- AUTO-GENERATED-CONTENT:END -->
