@@ -98,4 +98,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deployed
 
-This [Hello World Pandas App](http://gatsby-starter-hello-world-pandas.surge.sh/) is deployed to [Surge](https://surge.sh) [Content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network).
+This [Hello World Pandas App](http://gatsby-starter-hello-world-pandas.surge.sh/) is deployed to [Surge](https://surge.sh) [Content delivery network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network) as live demonstation.
