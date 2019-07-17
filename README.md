@@ -99,5 +99,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 ## 💫 Deployed
 
 This App is deployed and live:
-* [Hello World Pandas](http://gatsby-starter-hello-world-pandas.surge.sh/) in [Netlify](https://www.netlify.com/) [Cloud](https://en.wikipedia.org/wiki/Cloud_computing) [application delivery network (ADN)](https://en.wikipedia.org/wiki/Application_delivery_network)
+* [Hello World Pandas](https://peaceful-kirch-615790.netlify.com/) in [Netlify](https://www.netlify.com/) [Cloud](https://en.wikipedia.org/wiki/Cloud_computing) [application delivery network (ADN)](https://en.wikipedia.org/wiki/Application_delivery_network)
 * [Hello World Pandas](http://gatsby-starter-hello-world-pandas.surge.sh/) in [Surge](https://surge.sh) [content delivery network (CDN)](https://en.wikipedia.org/wiki/content_delivery_network)
